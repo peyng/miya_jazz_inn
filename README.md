@@ -1,9 +1,9 @@
-# miya_jazz_inn
+# miya_jazz_inn_2020
 <html lang="ja">
  <head>
  <meta charset="UTF-8">
  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
- <title>再スタート</title>
+ <title>miya jazz inn 2020</title>
 
 <style type="text/css">
  p {
@@ -94,7 +94,7 @@ a.p:hover span {
 </head>
 
 
-<body onload="alert('MIYA JAZZ INN 2020')" onunload="alert('来年もまた見せてね〜(^o^)/')">
+<body onload="alert('MIYA JAZZ INN 2020の写真と動画集です')" onunload="alert('来年もまた見せてね〜(^o^)/')">
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
