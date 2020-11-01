@@ -7,7 +7,7 @@
 
 <style type="text/css">
  p {
-color: #fffafa;
+color: #0000ff;
 font-size: 1.5em;
  }
  
@@ -287,4 +287,4 @@ a.p:hover span {
 
 <!-- フッタ -->
  <footer>
-	<span class="white">Copyright 2020/11/1 S.Hada</span>
+	<span class="grey">Copyright 2020/11/1 S.Hada</span>
