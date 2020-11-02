@@ -100,7 +100,7 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
 	
-<h1><span class="yellow"><marquee behavior="left">!!! 2020年11月1日_River Jewelries@宇都宮オリオンスクエア !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2020年11月1日_River Jewelries(半澤さん所属のバンド名)@宇都宮オリオンスクエア !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <a href="20201101_001.JPG" data-lightbox="abc"><img src="20201101_001.JPG" alt="サンプル画像" width="200" /></a>
