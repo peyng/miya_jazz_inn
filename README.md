@@ -253,9 +253,10 @@ a.p:hover span {
 <a href="20201101_148.JPG" data-lightbox="abc"><img src="20201101_148.JPG" alt="サンプル画像" width="200" /></a>
 
 <br><br><br>
-<h1>リハーサル音量調整</h1>
+<h1>リハーサル/音量調整</h1>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c0d_RU-istQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
+<br>
+<h1>本番</h1>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ShoO7fCSUS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_tNvGozyhJI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
